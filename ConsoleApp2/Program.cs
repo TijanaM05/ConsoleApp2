@@ -12,6 +12,8 @@ namespace ConsoleApp2
         {
             Console.WriteLine("Hello world!");
             Console.ReadKey();
+
+            Console.WriteLine("Write something");
         }
         
     }
